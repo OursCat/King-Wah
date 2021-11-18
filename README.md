@@ -1,11 +1,6 @@
 # King-Wah
 A website for a small business.
-# HR Blue Ocean -Bean There
 
-## Table of Contents
-- [Team Members](#team-members-&-roles)
-- [Description](#description)
-- [Technologies Used](#technologies-used)
 
 ## Technologies Used
 ### Front-End Development
